@@ -28,8 +28,6 @@ To use the form in your web project, follow these steps:
 ![image](https://github.com/GitUsmanBaig/Give-Away-SignUp-Form-Figma/assets/128279419/a263149b-db74-46c0-9d40-2cb43b4c94c9)
 ![image](https://github.com/GitUsmanBaig/Give-Away-SignUp-Form-Figma/assets/128279419/069c2ee2-61d7-45e0-bbb7-98c39220c7f0)
 
-Linkedin: https://www.linkedin.com/in/muhammad-usman-baig-06954427a/
-
 
 
 
